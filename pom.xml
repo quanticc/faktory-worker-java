@@ -78,8 +78,8 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:git:git://github.com/quanticc/faktory-worker-java.git</connection>
-        <developerConnection>scm:git:ssh://github.com:quanticc/faktory-worker-java.git</developerConnection>
+        <connection>scm:git:git@github.com:quanticc/faktory-worker-java.git</connection>
+        <developerConnection>scm:git:git@github.com:quanticc/faktory-worker-java.git</developerConnection>
         <url>http://github.com/quanticc/faktory-worker-java</url>
     </scm>
     <developers>
